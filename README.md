@@ -1,1 +1,2 @@
-# OOP-2025-2026-Assignemnt-2
+🎧 Audio Processing & OOP Assignment
+This project demonstrates the use of Object-Oriented Programming (OOP) concepts in C++ to build an audio processing system. It explores key programming principles such as abstraction, encapsulation, event-driven programming, and modular design. The assignment focuses on how audio is recorded, digitized, stored, and processed in various formats (e.g., .wav, .mp3). Developed as part of a team project, the system highlights real-world applications of GUI and audio app development while reinforcing teamwork and clean coding practices.
